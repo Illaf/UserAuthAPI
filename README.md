@@ -6,10 +6,10 @@ User registration with email and password.<br/>
 User login with session management.<br/>
 Password hashing for enhanced security.<br/>
 jwt tokens and cookies
-<br/>Getting Started
+<br/><h1>Getting Started</h1>
 <br/>Follow these instructions to get the UserAuthAPI up and running on your local machine.
 
-Installation <br/>
+<h1>Installation</h1> <br/>
 Clone the repository to your local machine using git clone. <br/>
 Navigate to the project directory: cd UserAuthAPI.<br/>
 
